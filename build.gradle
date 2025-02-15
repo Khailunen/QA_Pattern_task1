@@ -29,14 +29,11 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok:1.18.36'
     testCompileOnly 'org.projectlombok:lombok:1.18.36'
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.36'
-<<<<<<< HEAD
     implementation 'com.github.javafaker:javafaker:1.0.2'
     testImplementation 'io.qameta.allure:allure-selenide:2.20.1'
-=======
-
     testImplementation 'com.github.javafaker:javafaker:1.0.2'
->>>>>>> 2c37017c89450349ae2796004a60ae8eada12f3d
 }
+
 
 test {
     useJUnitPlatform()

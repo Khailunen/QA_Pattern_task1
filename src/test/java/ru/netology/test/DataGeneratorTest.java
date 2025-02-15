@@ -2,14 +2,11 @@ package ru.netology.test;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Selectors;
-<<<<<<< HEAD:src/test/java/ru/netology/DataGeneratorTest.java
 import com.codeborne.selenide.logevents.SelenideLogger;
 import com.github.javafaker.Faker;
 import io.qameta.allure.selenide.AllureSelenide;
 import lombok.val;
 import org.junit.jupiter.api.AfterAll;
-=======
->>>>>>> 2c37017c89450349ae2796004a60ae8eada12f3d:src/test/java/ru/netology/test/DataGeneratorTest.java
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
